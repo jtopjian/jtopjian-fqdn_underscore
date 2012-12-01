@@ -1,5 +1,5 @@
 name 'jtopjian-fqdn_underscore'
-version '0.0.1'
+version '1.0.0'
 source 'git://github.com/jtopjian/jtopjian-fqdn_underscore.git'
 author 'jtopjian'
 license 'Apache 2.0'
